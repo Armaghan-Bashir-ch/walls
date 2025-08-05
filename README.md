@@ -110,8 +110,8 @@ Links provided at the end of the file
 ------
 
 
-# <a id="Source Links"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Source Links" width="450"/>
+# <a id="Links"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Links" width="450"/>
 
 https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte/Configs/.config/hyde/themes/Catppuccin%20Latte/wallpapers
 
