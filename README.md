@@ -2,10 +2,7 @@ All of my favorite walls in one repo!
 
 Source: HyDE Project 
 
-> [!CAUTION]
-> All walls' resolution is diffrent
-
-> Links provided at the end of the file
+Links provided at the end of the file
 
 
 # <a id="Walls"></a>
