@@ -1,7 +1,7 @@
 All of my favorite walls in one repo!
 
 
-<pre> <code>
+<code> <pre>
 
 Source: HyDE Project Enviremenet
 
@@ -25,7 +25,7 @@ https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue/Configs/.config/hyd
 
 https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass/Configs/.config/hyde/themes/Frosted%20Glass/wallpapers
 
-<code> <pre>
+<pre><code>
 
 # Walls
 
