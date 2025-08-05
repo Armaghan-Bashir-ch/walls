@@ -8,7 +8,8 @@ Source: HyDE Project
 > Links provided at the end of the file
 
 
-# Walls
+# <a id="Walls"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=INSTALLATION" width="450"/>
 
 <img width="2560" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8e28add-04d1-4c5f-b174-a8616da93389" />
 
