@@ -3,25 +3,7 @@ All of my favorite walls in one repo!
 
 Source: HyDE Project 
 
-Specific Links:
-
-https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte/Configs/.config/hyde/themes/Catppuccin%20Latte/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha/Configs/.config/hyde/themes/Catppuccin%20Mocha/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green/Configs/.config/hyde/themes/Decay%20Green/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave/Configs/.config/hyde/themes/Synth%20Wave/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night/Configs/.config/hyde/themes/Tokyo%20Night/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine/Configs/.config/hyde/themes/Ros%C3%A9%20Pine/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura/Configs/.config/hyde/themes/Material%20Sakura/wallpapers
-
-https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue/Configs/.config/hyde/themes/Nordic%20Blue/walls
-
-https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass/Configs/.config/hyde/themes/Frosted%20Glass/wallpapers
+> Links provided at the end of the file
 
 
 # Walls
@@ -123,3 +105,27 @@ https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass/Configs/.config/h
 ---
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/9bd8b301-400f-4041-97fb-a3e7e720cbf8" />
+
+
+------
+
+
+Specific Links:
+
+https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte/Configs/.config/hyde/themes/Catppuccin%20Latte/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha/Configs/.config/hyde/themes/Catppuccin%20Mocha/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green/Configs/.config/hyde/themes/Decay%20Green/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave/Configs/.config/hyde/themes/Synth%20Wave/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night/Configs/.config/hyde/themes/Tokyo%20Night/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine/Configs/.config/hyde/themes/Ros%C3%A9%20Pine/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura/Configs/.config/hyde/themes/Material%20Sakura/wallpapers
+
+https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue/Configs/.config/hyde/themes/Nordic%20Blue/walls
+
+https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass/Configs/.config/hyde/themes/Frosted%20Glass/wallpapers
