@@ -1,5 +1,10 @@
 All of my favorite walls in one repo!
 
+<a id="installation"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=INSTALLATION" width="450"/>
+
+---
+
 
 Source: HyDE Project 
 
