@@ -3,122 +3,122 @@
 A curated set of desktop backgrounds themed by colors and styles like Catppuccin, Gruvbox, and more.
 
 ## Catppuccin Latte
-- Abstract-FantasyWorldArt.png
-- Animated-SunRISE.png
-- Cat-Minimal.jpg
-- Colorfull-Design.jpg
-- Forest-DearColorfull.jpg
-- RocketLaunch-Ground.png
-- Shaded-Evening.jpg
-- Snake-White.jpg
-- War-Feild.jpg
+- ![Abstract-FantasyWorldArt](Catppuccin-Latte/Abstract-FantasyWorldArt.png)
+- ![Animated-SunRISE](Catppuccin-Latte/Animated-SunRISE.png)
+- ![Cat-Minimal](Catppuccin-Latte/Cat-Minimal.jpg)
+- ![Colorfull-Design](Catppuccin-Latte/Colorfull-Design.jpg)
+- ![Forest-DearColorfull](Catppuccin-Latte/Forest-DearColorfull.jpg)
+- ![RocketLaunch-Ground](Catppuccin-Latte/RocketLaunch-Ground.png)
+- ![Shaded-Evening](Catppuccin-Latte/Shaded-Evening.jpg)
+- ![Snake-White](Catppuccin-Latte/Snake-White.jpg)
+- ![War-Feild](Catppuccin-Latte/War-Feild.jpg)
 
 ## Catppuccin Mocho
-- Abandoned-Boat.jpg
-- Abandoned-Town.jpg
-- Aesthetic-FuturisticTown.jpg
-- Animated-Rock-Mountain.jpg
-- Animated-TreeRed.jpg
-- Black-Hole-Art.png
-- ColorfulRoad-Design.jpg
-- Dark-Env-Gloom.png
-- Dark-Gloomy.png
-- DarkWinter-Forest.jpg
-- ForestFall-TownWaterFall.jpeg
-- ImaginedMinimal-Setup.jpg
-- Purple-Leaves.png
-- Solar-Planets.png
-- Sunset-Evening.png
-- Supernova-Explostion.jpg
-- Up-InSky.jpg
-- VirusZoomed-In.png
+- ![Abandoned-Boat](Catppuccin-Mocho/Abandoned-Boat.jpg)
+- ![Abandoned-Town](Catppuccin-Mocho/Abandoned-Town.jpg)
+- ![Aesthetic-FuturisticTown](Catppuccin-Mocho/Aesthetic-FuturisticTown.jpg)
+- ![Animated-Rock-Mountain](Catppuccin-Mocho/Animated-Rock-Mountain.jpg)
+- ![Animated-TreeRed](Catppuccin-Mocho/Animated-TreeRed.jpg)
+- ![Black-Hole-Art](Catppuccin-Mocho/Black-Hole-Art.png)
+- ![ColorfulRoad-Design](Catppuccin-Mocho/ColorfulRoad-Design.jpg)
+- ![Dark-Env-Gloom](Catppuccin-Mocho/Dark-Env-Gloom.png)
+- ![Dark-Gloomy](Catppuccin-Mocho/Dark-Gloomy.png)
+- ![DarkWinter-Forest](Catppuccin-Mocho/DarkWinter-Forest.jpg)
+- ![ForestFall-TownWaterFall](Catppuccin-Mocho/ForestFall-TownWaterFall.jpeg)
+- ![ImaginedMinimal-Setup](Catppuccin-Mocho/ImaginedMinimal-Setup.jpg)
+- ![Purple-Leaves](Catppuccin-Mocho/Purple-Leaves.png)
+- ![Solar-Planets](Catppuccin-Mocho/Solar-Planets.png)
+- ![Sunset-Evening](Catppuccin-Mocho/Sunset-Evening.png)
+- ![Supernova-Explostion](Catppuccin-Mocho/Supernova-Explostion.jpg)
+- ![Up-InSky](Catppuccin-Mocho/Up-InSky.jpg)
+- ![VirusZoomed-In](Catppuccin-Mocho/VirusZoomed-In.png)
 
 ## Decay Green
-- Block-Design.png
-- Blue-Lines.png
-- Bright-Stars.png
-- GreenLeaves-TownWalk.png
-- Lego-Setup.png
-- Office-Work.png
-- Old-Vibe-Setup.png
-- RedNight-Arcade.png
-- Scoob-DesignPattern.jpg
-- StationEntry-ArcadeChill.png
+- ![Block-Design](Decay-Green/Block-Design.png)
+- ![Blue-Lines](Decay-Green/Blue-Lines.png)
+- ![Bright-Stars](Decay-Green/Bright-Stars.png)
+- ![GreenLeaves-TownWalk](Decay-Green/GreenLeaves-TownWalk.png)
+- ![Lego-Setup](Decay-Green/Lego-Setup.png)
+- ![Office-Work](Decay-Green/Office-Work.png)
+- ![Old-Vibe-Setup](Decay-Green/Old-Vibe-Setup.png)
+- ![RedNight-Arcade](Decay-Green/RedNight-Arcade.png)
+- ![Scoob-DesignPattern](Decay-Green/Scoob-DesignPattern.jpg)
+- ![StationEntry-ArcadeChill](Decay-Green/StationEntry-ArcadeChill.png)
 
 ## Frosted Glass
-- Blue-Mountains.png
-- Blue-Wave.png
-- Cloud-Moon.png
-- Dark-SnowForest.jpg
-- MountEverest-Art.png
-- Mountain-Sky.png
-- NewMoon-Cloudy.jpg
-- Snow-Lake.jpg
-- Winter-Forest.jpg
-- WinterWinds-TreeTopMountain.png
+- ![Blue-Mountains](Frosted-Glass/Blue-Mountains.png)
+- ![Blue-Wave](Frosted-Glass/Blue-Wave.png)
+- ![Cloud-Moon](Frosted-Glass/Cloud-Moon.png)
+- ![Dark-SnowForest](Frosted-Glass/Dark-SnowForest.jpg)
+- ![MountEverest-Art](Frosted-Glass/MountEverest-Art.png)
+- ![Mountain-Sky](Frosted-Glass/Mountain-Sky.png)
+- ![NewMoon-Cloudy](Frosted-Glass/NewMoon-Cloudy.jpg)
+- ![Snow-Lake](Frosted-Glass/Snow-Lake.jpg)
+- ![Winter-Forest](Frosted-Glass/Winter-Forest.jpg)
+- ![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
 
 ## Gruvbox Retro
-- CastleView-RoyalNight.jpg
-- ChillBedroom-Cyan.png
-- Falcon-WingsSpread.jpg
-- Forest-Green.jpg
-- GNU-LogoCrown.jpg
-- Morning-StreetView.png
-- NightLight-Streets.jpg
-- Round-ShapePatterns.png
-- Self-Limits.jpg
-- Skull-OnFire.png
-- Square-Design.png
-- Town-in-Progress.jpg
-- Yellow-Moon.png
+- ![CastleView-RoyalNight](Gruvbox-Retro/CastleView-RoyalNight.jpg)
+- ![ChillBedroom-Cyan](Gruvbox-Retro/ChillBedroom-Cyan.png)
+- ![Falcon-WingsSpread](Gruvbox-Retro/Falcon-WingsSpread.jpg)
+- ![Forest-Green](Gruvbox-Retro/Forest-Green.jpg)
+- ![GNU-LogoCrown](Gruvbox-Retro/GNU-LogoCrown.jpg)
+- ![Morning-StreetView](Gruvbox-Retro/Morning-StreetView.png)
+- ![NightLight-Streets](Gruvbox-Retro/NightLight-Streets.jpg)
+- ![Round-ShapePatterns](Gruvbox-Retro/Round-ShapePatterns.png)
+- ![Self-Limits](Gruvbox-Retro/Self-Limits.jpg)
+- ![Skull-OnFire](Gruvbox-Retro/Skull-OnFire.png)
+- ![Square-Design](Gruvbox-Retro/Square-Design.png)
+- ![Town-in-Progress](Gruvbox-Retro/Town-in-Progress.jpg)
+- ![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
 
 ## Tokyo Night
-- Buildings-Tokyo.png
-- GasStation-Midnight.gif
-- Night-Cafe.jpg
-- Night-Lights.png
-- Street-view.gif
+- ![Buildings-Tokyo](Tokyo-Night/Buildings-Tokyo.png)
+- ![GasStation-Midnight](Tokyo-Night/GasStation-Midnight.gif)
+- ![Night-Cafe](Tokyo-Night/Night-Cafe.jpg)
+- ![Night-Lights](Tokyo-Night/Night-Lights.png)
+- ![Street-view](Tokyo-Night/Street-view.gif)
 
 ## Synth Wave
-- City-FilledWithSkyscrapers.jpg
-- Night-TowerBlue.png
-- Palm-Trees.jpg
-- Stary-Sunset.png
-- Waves-3dMesh.jpg
+- ![City-FilledWithSkyscrapers](Synth-Wave/City-FilledWithSkyscrapers.jpg)
+- ![Night-TowerBlue](Synth-Wave/Night-TowerBlue.png)
+- ![Palm-Trees](Synth-Wave/Palm-Trees.jpg)
+- ![Stary-Sunset](Synth-Wave/Stary-Sunset.png)
+- ![Waves-3dMesh](Synth-Wave/Waves-3dMesh.jpg)
 
 ## Rose Pine
-- Dragons-Glooming.jpg
-- Mountain-Side-Sunset.jpg
-- Red-Moon-Forest.jpg
-- Reflected-Ocean.jpg
-- ScarletTree-BurnedDown.jpeg
-- SunSet-AnimatedForest.png
-- Tower-Sunset-Dark.jpg
-- Warm-Setup.jpeg
-- Wheels-Sunset.jpg
+- ![Dragons-Glooming](Rose-Pine/Dragons-Glooming.jpg)
+- ![Mountain-Side-Sunset](Rose-Pine/Mountain-Side-Sunset.jpg)
+- ![Red-Moon-Forest](Rose-Pine/Red-Moon-Forest.jpg)
+- ![Reflected-Ocean](Rose-Pine/Reflected-Ocean.jpg)
+- ![ScarletTree-BurnedDown](Rose-Pine/ScarletTree-BurnedDown.jpeg)
+- ![SunSet-AnimatedForest](Rose-Pine/SunSet-AnimatedForest.png)
+- ![Tower-Sunset-Dark](Rose-Pine/Tower-Sunset-Dark.jpg)
+- ![Warm-Setup](Rose-Pine/Warm-Setup.jpeg)
+- ![Wheels-Sunset](Rose-Pine/Wheels-Sunset.jpg)
 
 ## Nordic Blue
-- Arch-btw.png
-- BlackWhite-DesaturatedMountain.jpg
-- BlueSky-PlaneRide.jpg
-- CityView-Animated.jpg
-- DearWatching-SunsetForest.jpg
-- EveningWinterSmoke-CityView.jpg
-- Nature-GreenSunset.jpg
-- Night-Vision.jpg
-- Rocket-UniverseEscape.jpg
-- Space-stronaut.png
-- Sunrise-Forest.jpg
-- Sunset-Forest.jpg
-- Talk-SpreadSheet.jpg
-- Underwater-Ocean.png
+- ![Arch-btw](Nordic-Blue/Arch-btw.png)
+- ![BlackWhite-DesaturatedMountain](Nordic-Blue/BlackWhite-DesaturatedMountain.jpg)
+- ![BlueSky-PlaneRide](Nordic-Blue/BlueSky-PlaneRide.jpg)
+- ![CityView-Animated](Nordic-Blue/CityView-Animated.jpg)
+- ![DearWatching-SunsetForest](Nordic-Blue/DearWatching-SunsetForest.jpg)
+- ![EveningWinterSmoke-CityView](Nordic-Blue/EveningWinterSmoke-CityView.jpg)
+- ![Nature-GreenSunset](Nordic-Blue/Nature-GreenSunset.jpg)
+- ![Night-Vision](Nordic-Blue/Night-Vision.jpg)
+- ![Rocket-UniverseEscape](Nordic-Blue/Rocket-UniverseEscape.jpg)
+- ![Space-stronaut](Nordic-Blue/Space-stronaut.png)
+- ![Sunrise-Forest](Nordic-Blue/Sunrise-Forest.jpg)
+- ![Sunset-Forest](Nordic-Blue/Sunset-Forest.jpg)
+- ![Talk-SpreadSheet](Nordic-Blue/Talk-SpreadSheet.jpg)
+- ![Underwater-Ocean](Nordic-Blue/Underwater-Ocean.png)
 
 ## Material Sakura
-- Flowers-Darker.jpg
-- Flowers-Grey.jpg
-- Flowers-HigherContrast.jpg
-- Flowers-LessColors.jpg
-- Flowers-White.jpg
-- Orange-Flowers.jpg
-- Red-Flowers.jpg
-- Spring-Walk.gif
+- ![Flowers-Darker](Material-Sakura/Flowers-Darker.jpg)
+- ![Flowers-Grey](Material-Sakura/Flowers-Grey.jpg)
+- ![Flowers-HigherContrast](Material-Sakura/Flowers-HigherContrast.jpg)
+- ![Flowers-LessColors](Material-Sakura/Flowers-LessColors.jpg)
+- ![Flowers-White](Material-Sakura/Flowers-White.jpg)
+- ![Orange-Flowers](Material-Sakura/Orange-Flowers.jpg)
+- ![Red-Flowers](Material-Sakura/Red-Flowers.jpg)
+- ![Spring-Walk](Material-Sakura/Spring-Walk.gif)
