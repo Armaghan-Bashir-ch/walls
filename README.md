@@ -1,6 +1,8 @@
-# Wallpapers Collection
 
-A curated set of desktop backgrounds themed by colors and styles like Catppuccin, Gruvbox, and more.
+
+## Source
+
+These wallpapers are sourced from the [Hyde project](https://github.com/hyde-project).
 
 ## Catppuccin Latte
 ![Abstract-FantasyWorldArt](Catppuccin-Latte/Abstract-FantasyWorldArt.png)
