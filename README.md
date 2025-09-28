@@ -1,4 +1,4 @@
-# WALLPAPER COLLECTION PREVIEW
+# Wallpaper Collection Preview
 
 ## Source
 
