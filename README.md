@@ -14,6 +14,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Shaded-Evening](Catppuccin-Latte/Shaded-Evening.jpg)
 ![Snake-White](Catppuccin-Latte/Snake-White.jpg)
 ![War-Field](Catppuccin-Latte/War-Field.jpg)
+---
 
 ## Catppuccin Mocha
 ![Abandoned-Boat](Catppuccin-Mocha/Abandoned-Boat.jpg)
@@ -34,6 +35,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Supernova-Explosion](Catppuccin-Mocha/Supernova-Explosion.jpg)
 ![Up-InSky](Catppuccin-Mocha/Up-InSky.jpg)
 ![VirusZoomed-In](Catppuccin-Mocha/VirusZoomed-In.png)
+---
 
 ## Decay Green
 ![Block-Design](Decay-Green/Block-Design.png)
@@ -46,6 +48,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![RedNight-Arcade](Decay-Green/RedNight-Arcade.png)
 ![Scoob-DesignPattern](Decay-Green/Scoob-DesignPattern.jpg)
 ![StationEntry-ArcadeChill](Decay-Green/StationEntry-ArcadeChill.png)
+---
 
 ## Frosted Glass
 ![Blue-Mountains](Frosted-Glass/Blue-Mountains.png)
@@ -58,6 +61,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Snow-Lake](Frosted-Glass/Snow-Lake.jpg)
 ![Winter-Forest](Frosted-Glass/Winter-Forest.jpg)
 ![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
+---
 
 ## Gruvbox Retro
 ![CastleView-RoyalNight](Gruvbox-Retro/CastleView-RoyalNight.jpg)
@@ -73,6 +77,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Square-Design](Gruvbox-Retro/Square-Design.png)
 ![Town-in-Progress](Gruvbox-Retro/Town-in-Progress.jpg)
 ![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
+---
 
 ## Tokyo Night
 ![Buildings-Tokyo](Tokyo-Night/Buildings-Tokyo.png)
@@ -80,6 +85,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Night-Cafe](Tokyo-Night/Night-Cafe.jpg)
 ![Night-Lights](Tokyo-Night/Night-Lights.png)
 ![Street-view](Tokyo-Night/Street-view.gif)
+---
 
 ## Synth Wave
 ![City-FilledWithSkyscrapers](Synth-Wave/City-FilledWithSkyscrapers.jpg)
@@ -87,6 +93,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Palm-Trees](Synth-Wave/Palm-Trees.jpg)
 ![Starry-Sunset](Synth-Wave/Starry-Sunset.png)
 ![Waves-3dMesh](Synth-Wave/Waves-3dMesh.jpg)
+---
 
 ## Rose Pine
 ![Dragons-Glooming](Rose-Pine/Dragons-Glooming.jpg)
@@ -98,6 +105,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Tower-Sunset-Dark](Rose-Pine/Tower-Sunset-Dark.jpg)
 ![Warm-Setup](Rose-Pine/Warm-Setup.jpeg)
 ![Wheels-Sunset](Rose-Pine/Wheels-Sunset.jpg)
+---
 
 ## Nordic Blue
 ![Arch-btw](Nordic-Blue/Arch-btw.png)
@@ -114,6 +122,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ![Sunset-Forest](Nordic-Blue/Sunset-Forest.jpg)
 ![Talk-SpreadSheet](Nordic-Blue/Talk-SpreadSheet.jpg)
 ![Underwater-Ocean](Nordic-Blue/Underwater-Ocean.png)
+---
 
 ## Material Sakura
 ![Flowers-Darker](Material-Sakura/Flowers-Darker.jpg)
