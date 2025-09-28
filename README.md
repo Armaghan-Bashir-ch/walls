@@ -226,7 +226,7 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 
 ## ![Spring-Walk](Material-Sakura/Spring-Walk.gif)
 
-## Cloning the Repository
+<span style="color: blue;">### Cloning the Repository</span>
 
 ```bash
 git clone https://github.com/Armaghan-Bashir-ch/walls.git
