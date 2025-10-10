@@ -1,8 +1,10 @@
-# Wallpaper Collection Preview
-
-## Source
+# Source
 
 These wallpapers are sourced from the [Hyde project](https://github.com/hyde-project).
+
+## Wallpaper Collection Preview
+
+---
 
 ## Catppuccin Latte
 
