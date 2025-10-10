@@ -210,6 +210,8 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 
 ## ![CityView-Animated](Nordic-Blue/CityView-Animated.jpg)
 
+## ![Space-Astranout](Nordic-Blue/Space-Astranout.png)
+
 ## ![DearWatching-SunsetForest](Nordic-Blue/DearWatching-SunsetForest.jpg)
 
 ## ![EveningWinterSmoke-CityView](Nordic-Blue/EveningWinterSmoke-CityView.jpg)
