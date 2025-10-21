@@ -28,6 +28,8 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 
 ## ![ColorFullDesign-Shades](Catppuccin-Latte/ColorFullDesign-Shades.png)
 
+## ![GlitchFantasy-World](Catppuccin-Latte/GlitchFantasy-World.jpg)
+
 ## Catppuccin Mocha
 
 ## ![Abandoned-Boat](Catppuccin-Mocha/Abandoned-Boat.jpg)
@@ -201,6 +203,8 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![Japanese-WavesFlow](Rose-Pine/Japanese-WavesFlow.jpg)
 
 ## ![RedMoon-EveningSunset](Rose-Pine/RedMoon-EveningSunset.png)
+
+## ![Pixels-Spread](Rose-Pine/Pixels-Spread.png)
 
 ## Nordic Blue
 
