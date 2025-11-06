@@ -9,7 +9,7 @@
 
 ---
 
-## Catppuccin Latte
+### Catppuccin Latte
 
 ## ![Abstract-FantasyWorldArt](Catppuccin-Latte/Abstract-FantasyWorldArt.png)
 
@@ -43,7 +43,7 @@
 ## ![StreeView-FromRoofTop](Catppuccin-Latte/StreeView-FromRoofTop.png)
 
 
-## Catppuccin Mocha
+### Catppuccin Mocha
 
 ## ![Abandoned-Boat](Catppuccin-Mocha/Abandoned-Boat.jpg)
 
@@ -91,7 +91,7 @@
 
 
 
-## Decay Green
+### Decay Green
 
 ## ![Block-Design](Decay-Green/Block-Design.png)
 
@@ -121,7 +121,7 @@
 ## ![JapaneseRoad-Walk](Decay-Green/JapaneseRoad-Walk.jpg)
 
 
-## Frosted Glass
+### Frosted Glass
 
 ## ![Blue-Mountains](Frosted-Glass/Blue-Mountains.png)
 
@@ -143,7 +143,7 @@
 
 ## ![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
 
-## Gruvbox Retro
+### Gruvbox Retro
 
 ## ![CastleView-RoyalNight](Gruvbox-Retro/CastleView-RoyalNight.jpg)
 
@@ -173,7 +173,7 @@
 ## ![Pixel-Hands](Gruvbox-Retro/Pixel-Hands.jpg)
 
 
-## Tokyo Night
+### Tokyo Night
 
 ## ![Buildings-Tokyo](Tokyo-Night/Buildings-Tokyo.png)
 
@@ -187,7 +187,7 @@
 ## ![RetroStyle-Show](Tokyo-Night/RetroStyle-Show.png)
 
 
-## Synth Wave
+### Synth Wave
 
 ## ![Night-TowerBlue](Synth-Wave/Night-TowerBlue.png)
 
@@ -199,7 +199,7 @@
 ## ![StoreNvim](Synth-Wave/StoreNvim.png)
 
 
-## Rose Pine
+### Rose Pine
 
 ## ![Dragons-Glooming](Rose-Pine/Dragons-Glooming.jpg)
 
@@ -227,7 +227,7 @@
 ## ![Dawn-CityTown](Rose-Pine/Dawn-CityTown.jpg)
 
 
-## Nordic Blue
+### Nordic Blue
 
 ## ![Arch-btw](Nordic-Blue/Arch-btw.png)
 
@@ -265,7 +265,7 @@
 ## ![Mountains-WinterSnow](Nordic-Blue/Mountains-WinterSnow.jpg)
 
 
-## Material Sakura
+### Material Sakura
 
 ## ![Flowers-Darker](Material-Sakura/Flowers-Darker.jpg)
 
