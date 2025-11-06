@@ -3,6 +3,7 @@
 - [Hyde Project](https://github.com/HyDE-Project/)
 - [Dharmx Wallpapers](https://github.com/dharmx/walls)
 - [SDDM astronaut theme wallpapers](https://github.com/Keyitdev/sddm-astronaut-theme/)
+- [Omarchy Backgrounds](https://github.com/basecamp/omarchy/)
 
 ## Wallpaper Collection Preview
 
