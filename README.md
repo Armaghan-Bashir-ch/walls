@@ -3,667 +3,290 @@
 - [Hyde Project](https://github.com/HyDE-Project/)
 - [Dharmx Wallpapers](https://github.com/dharmx/walls)
 - [SDDM astronaut theme wallpapers](https://github.com/Keyitdev/sddm-astronaut-theme/)
-- [Omarchy Backgrounds](https://github.com/basecamp/omarchy/)
 
 ## Wallpaper Collection Preview
 
+---
+
 ### Catppuccin Latte
 
-<center>
-<h4>Abstract-FantasyWorldArt</h4>
-![Abstract-FantasyWorldArt](Catppuccin-Latte/Abstract-FantasyWorldArt.png)
-</center>
+## ![Abstract-FantasyWorldArt](Catppuccin-Latte/Abstract-FantasyWorldArt.png)
 
-<center>
-<h4>Animated-SunRISE</h4>
-![Animated-SunRISE](Catppuccin-Latte/Animated-SunRISE.png)
-</center>
+## ![Animated-SunRISE](Catppuccin-Latte/Animated-SunRISE.png)
 
-<center>
-<h4>Cat-Minimal</h4>
-![Cat-Minimal](Catppuccin-Latte/Cat-Minimal.jpg)
-</center>
+## ![Cat-Minimal](Catppuccin-Latte/Cat-Minimal.jpg)
 
-<center>
-<h4>Colorful-Design</h4>
-![Colorful-Design](Catppuccin-Latte/Colorful-Design.jpg)
-</center>
+## ![Colorful-Design](Catppuccin-Latte/Colorful-Design.jpg)
 
-<center>
-<h4>Forest-DearColorful</h4>
-![Forest-DearColorful](Catppuccin-Latte/Forest-DearColorful.jpg)
-</center>
+## ![Forest-DearColorful](Catppuccin-Latte/Forest-DearColorful.jpg)
 
-<center>
-<h4>RocketLaunch-Ground</h4>
-![RocketLaunch-Ground](Catppuccin-Latte/RocketLaunch-Ground.png)
-</center>
+## ![RocketLaunch-Ground](Catppuccin-Latte/RocketLaunch-Ground.png)
 
-<center>
-<h4>Shaded-Evening</h4>
-![Shaded-Evening](Catppuccin-Latte/Shaded-Evening.jpg)
-</center>
+## ![Shaded-Evening](Catppuccin-Latte/Shaded-Evening.jpg)
 
-<center>
-<h4>Snake-White</h4>
-![Snake-White](Catppuccin-Latte/Snake-White.jpg)
-</center>
+## ![Snake-White](Catppuccin-Latte/Snake-White.jpg)
 
-<center>
-<h4>War-Field</h4>
-![War-Field](Catppuccin-Latte/War-Field.jpg)
-</center>
+## ![War-Field](Catppuccin-Latte/War-Field.jpg)
 
-<center>
-<h4>ColorFullDesign-Shades</h4>
-![ColorFullDesign-Shades](Catppuccin-Latte/ColorFullDesign-Shades.png)
-</center>
+## ![ColorFullDesign-Shades](Catppuccin-Latte/ColorFullDesign-Shades.png)
 
-<center>
-<h4>GlitchFantasy-World</h4>
-![GlitchFantasy-World](Catppuccin-Latte/GlitchFantasy-World.jpg)
-</center>
-<center>
-<h4>BrightMinimal-Shape3D</h4>
-![BrightMinimal-Shape3D](Catppuccin-Latte/BrightMinimal-Shape3D.jpg)
-</center>
+## ![GlitchFantasy-World](Catppuccin-Latte/GlitchFantasy-World.jpg)
+## ![BrightMinimal-Shape3D](Catppuccin-Latte/BrightMinimal-Shape3D.jpg)
 
-<center>
-<h4>JapaneseStyle-Potrait</h4>
-![JapaneseStyle-Potrait](Catppuccin-Latte/JapaneseStyle-Potrait.png)
-</center>
+## ![JapaneseStyle-Potrait](Catppuccin-Latte/JapaneseStyle-Potrait.png)
 
-<center>
-<h4>JapaneseStyle-PotraitDesaturated</h4>
-![JapaneseStyle-PotraitDesaturated](Catppuccin-Latte/JapaneseStyle-PotraitDesaturated.png)
-</center>
+## ![JapaneseStyle-PotraitDesaturated](Catppuccin-Latte/JapaneseStyle-PotraitDesaturated.png)
 
-<center>
-<h4>WhiteBackground-AnimeStyle</h4>
-![WhiteBackground-AnimeStyle](Catppuccin-Latte/WhiteBackground-AnimeStyle.png)
-</center>
+## ![WhiteBackground-AnimeStyle](Catppuccin-Latte/WhiteBackground-AnimeStyle.png)
 
-<center>
-<h4>StreeView-FromRoofTop</h4>
-![StreeView-FromRoofTop](Catppuccin-Latte/StreeView-FromRoofTop.png)
-</center>
+## ![StreeView-FromRoofTop](Catppuccin-Latte/StreeView-FromRoofTop.png)
 
 
 ### Catppuccin Mocha
 
-<center>
-<h4>Abandoned-Boat</h4>
-![Abandoned-Boat](Catppuccin-Mocha/Abandoned-Boat.jpg)
-</center>
+## ![Abandoned-Boat](Catppuccin-Mocha/Abandoned-Boat.jpg)
 
-<center>
-<h4>Abandoned-Town</h4>
-![Abandoned-Town](Catppuccin-Mocha/Abandoned-Town.jpg)
-</center>
+## ![Abandoned-Town](Catppuccin-Mocha/Abandoned-Town.jpg)
 
-<center>
-<h4>Aesthetic-FuturisticTown</h4>
-![Aesthetic-FuturisticTown](Catppuccin-Mocha/Aesthetic-FuturisticTown.jpg)
-</center>
+## ![Aesthetic-FuturisticTown](Catppuccin-Mocha/Aesthetic-FuturisticTown.jpg)
 
-<center>
-<h4>Animated-Rock-Mountain</h4>
-![Animated-Rock-Mountain](Catppuccin-Mocha/Animated-Rock-Mountain.jpg)
-</center>
+## ![Animated-Rock-Mountain](Catppuccin-Mocha/Animated-Rock-Mountain.jpg)
 
-<center>
-<h4>Animated-TreeRed</h4>
-![Animated-TreeRed](Catppuccin-Mocha/Animated-TreeRed.jpg)
-</center>
+## ![Animated-TreeRed](Catppuccin-Mocha/Animated-TreeRed.jpg)
 
-<center>
-<h4>Black-Hole-Art</h4>
-![Black-Hole-Art](Catppuccin-Mocha/Black-Hole-Art.png)
-</center>
+## ![Black-Hole-Art](Catppuccin-Mocha/Black-Hole-Art.png)
 
-<center>
-<h4>ColorfulRoad-Design</h4>
-![ColorfulRoad-Design](Catppuccin-Mocha/ColorfulRoad-Design.jpg)
-</center>
+## ![ColorfulRoad-Design](Catppuccin-Mocha/ColorfulRoad-Design.jpg)
 
-<center>
-<h4>Dark-Env-Gloom</h4>
-![Dark-Env-Gloom](Catppuccin-Mocha/Dark-Env-Gloom.png)
-</center>
+## ![Dark-Env-Gloom](Catppuccin-Mocha/Dark-Env-Gloom.png)
 
-<center>
-<h4>Dark-Gloomy</h4>
-![Dark-Gloomy](Catppuccin-Mocha/Dark-Gloomy.png)
-</center>
+## ![Dark-Gloomy](Catppuccin-Mocha/Dark-Gloomy.png)
 
-<center>
-<h4>DarkWinter-Forest</h4>
-![DarkWinter-Forest](Catppuccin-Mocha/DarkWinter-Forest.jpg)
-</center>
+## ![DarkWinter-Forest](Catppuccin-Mocha/DarkWinter-Forest.jpg)
 
-<center>
-<h4>ForestFall-TownWaterFall</h4>
-![ForestFall-TownWaterFall](Catppuccin-Mocha/ForestFall-TownWaterFall.jpeg)
-</center>
+## ![ForestFall-TownWaterFall](Catppuccin-Mocha/ForestFall-TownWaterFall.jpeg)
 
-<center>
-<h4>ImaginedMinimal-Setup</h4>
-![ImaginedMinimal-Setup](Catppuccin-Mocha/ImaginedMinimal-Setup.jpg)
-</center>
+## ![ImaginedMinimal-Setup](Catppuccin-Mocha/ImaginedMinimal-Setup.jpg)
 
-<center>
-<h4>Purple-Leaves</h4>
-![Purple-Leaves](Catppuccin-Mocha/Purple-Leaves.png)
-</center>
+## ![Purple-Leaves](Catppuccin-Mocha/Purple-Leaves.png)
 
-<center>
-<h4>Solar-Planets</h4>
-![Solar-Planets](Catppuccin-Mocha/Solar-Planets.png)
-</center>
+## ![Solar-Planets](Catppuccin-Mocha/Solar-Planets.png)
 
-<center>
-<h4>Sunset-Evening</h4>
-![Sunset-Evening](Catppuccin-Mocha/Sunset-Evening.png)
-</center>
+## ![Sunset-Evening](Catppuccin-Mocha/Sunset-Evening.png)
 
-<center>
-<h4>Supernova-Explosion</h4>
-![Supernova-Explosion](Catppuccin-Mocha/Supernova-Explosion.jpg)
-</center>
+## ![Supernova-Explosion](Catppuccin-Mocha/Supernova-Explosion.jpg)
 
-<center>
-<h4>Up-InSky</h4>
-![Up-InSky](Catppuccin-Mocha/Up-InSky.jpg)
-</center>
+## ![Up-InSky](Catppuccin-Mocha/Up-InSky.jpg)
 
-<center>
-<h4>VirusZoomed-In</h4>
-![VirusZoomed-In](Catppuccin-Mocha/VirusZoomed-In.png)
-</center>
+## ![VirusZoomed-In](Catppuccin-Mocha/VirusZoomed-In.png)
 
-<center>
-<h4>MomentsBefore-Dawn</h4>
-![MomentsBefore-Dawn](Catppuccin-Mocha/MomentsBefore-Dawn.png)
-</center>
+## ![MomentsBefore-Dawn](Catppuccin-Mocha/MomentsBefore-Dawn.png)
 
-<center>
-<h4>OmarchyWall</h4>
-![OmarchyWall](Catppuccin-Mocha/OmarchyWall.png)
-</center>
+## ![OmarchyWall](Catppuccin-Mocha/OmarchyWall.png)
 
-<center>
-<h4>Terminal-KittyCircleVibes</h4>
-![Terminal-KittyCircleVibes](Catppuccin-Mocha/Terminal-KittyCircleVibes.png)
-</center>
-<center>
-<h4>Abstract-FiberFabric</h4>
-![Abstract-FiberFabric](Catppuccin-Mocha/Abstract-FiberFabric.jpg)
-</center>
-<center>
-<h4>RainbowColors-DesignCool</h4>
-![RainbowColors-DesignCool](Catppuccin-Mocha/RainbowColors-DesignCool.jpg)
-</center>
+## ![Terminal-KittyCircleVibes](Catppuccin-Mocha/Terminal-KittyCircleVibes.png)
+## ![Abstract-FiberFabric](Catppuccin-Mocha/Abstract-FiberFabric.jpg)
+## ![RainbowColors-DesignCool](Catppuccin-Mocha/RainbowColors-DesignCool.jpg)
 
 
 
 ### Decay Green
 
-<center>
-<h4>Block-Design</h4>
-![Block-Design](Decay-Green/Block-Design.png)
-</center>
+## ![Block-Design](Decay-Green/Block-Design.png)
 
-<center>
-<h4>Blue-Lines</h4>
-![Blue-Lines](Decay-Green/Blue-Lines.png)
-</center>
+## ![Blue-Lines](Decay-Green/Blue-Lines.png)
 
-<center>
-<h4>Bright-Stars</h4>
-![Bright-Stars](Decay-Green/Bright-Stars.png)
-</center>
+## ![Bright-Stars](Decay-Green/Bright-Stars.png)
 
-<center>
-<h4>GreenLeaves-TownWalk</h4>
-![GreenLeaves-TownWalk](Decay-Green/GreenLeaves-TownWalk.png)
-</center>
+## ![GreenLeaves-TownWalk](Decay-Green/GreenLeaves-TownWalk.png)
 
-<center>
-<h4>Lego-Setup</h4>
-![Lego-Setup](Decay-Green/Lego-Setup.png)
-</center>
+## ![Lego-Setup](Decay-Green/Lego-Setup.png)
 
-<center>
-<h4>Office-Work</h4>
-![Office-Work](Decay-Green/Office-Work.png)
-</center>
+## ![Office-Work](Decay-Green/Office-Work.png)
 
-<center>
-<h4>Old-Vibe-Setup</h4>
-![Old-Vibe-Setup](Decay-Green/Old-Vibe-Setup.png)
-</center>
+## ![Old-Vibe-Setup](Decay-Green/Old-Vibe-Setup.png)
 
-<center>
-<h4>RedNight-Arcade</h4>
-![RedNight-Arcade](Decay-Green/RedNight-Arcade.png)
-</center>
+## ![RedNight-Arcade](Decay-Green/RedNight-Arcade.png)
 
-<center>
-<h4>Scoob-DesignPattern</h4>
-![Scoob-DesignPattern](Decay-Green/Scoob-DesignPattern.jpg)
-</center>
+## ![Scoob-DesignPattern](Decay-Green/Scoob-DesignPattern.jpg)
 
-<center>
-<h4>StationEntry-ArcadeChill</h4>
-![StationEntry-ArcadeChill](Decay-Green/StationEntry-ArcadeChill.png)
-</center>
+## ![StationEntry-ArcadeChill](Decay-Green/StationEntry-ArcadeChill.png)
 
-<center>
-<h4>Disk-OrbitSolar</h4>
-![Disk-OrbitSolar](Decay-Green/Disk-OrbitSolar.png)
-</center>
+## ![Disk-OrbitSolar](Decay-Green/Disk-OrbitSolar.png)
 
-<center>
-<h4>NightSkyScrape-EveningSunset</h4>
-![NightSkyScrape-EveningSunset](Decay-Green/NightSkyScrape-EveningSunset.png)
-</center>
-<center>
-<h4>Earth-Rings</h4>
-![Earth-Rings](Decay-Green/Earth-Rings.jpg)
-</center>
+## ![NightSkyScrape-EveningSunset](Decay-Green/NightSkyScrape-EveningSunset.png)
+## ![Earth-Rings](Decay-Green/Earth-Rings.jpg)
 
-<center>
-<h4>JapaneseRoad-Walk</h4>
-![JapaneseRoad-Walk](Decay-Green/JapaneseRoad-Walk.jpg)
-</center>
+## ![JapaneseRoad-Walk](Decay-Green/JapaneseRoad-Walk.jpg)
 
 
 ### Frosted Glass
 
-<center>
-<h4>Blue-Mountains</h4>
-![Blue-Mountains](Frosted-Glass/Blue-Mountains.png)
-</center>
+## ![Blue-Mountains](Frosted-Glass/Blue-Mountains.png)
 
-<center>
-<h4>Blue-Wave</h4>
-![Blue-Wave](Frosted-Glass/Blue-Wave.png)
-</center>
+## ![Blue-Wave](Frosted-Glass/Blue-Wave.png)
 
-<center>
-<h4>Cloud-Moon</h4>
-![Cloud-Moon](Frosted-Glass/Cloud-Moon.png)
-</center>
+## ![Cloud-Moon](Frosted-Glass/Cloud-Moon.png)
 
-<center>
-<h4>Dark-SnowForest</h4>
-![Dark-SnowForest](Frosted-Glass/Dark-SnowForest.jpg)
-</center>
+## ![Dark-SnowForest](Frosted-Glass/Dark-SnowForest.jpg)
 
-<center>
-<h4>MountEverest-Art</h4>
-![MountEverest-Art](Frosted-Glass/MountEverest-Art.png)
-</center>
+## ![MountEverest-Art](Frosted-Glass/MountEverest-Art.png)
 
-<center>
-<h4>Mountain-Sky</h4>
-![Mountain-Sky](Frosted-Glass/Mountain-Sky.png)
-</center>
+## ![Mountain-Sky](Frosted-Glass/Mountain-Sky.png)
 
-<center>
-<h4>NewMoon-Cloudy</h4>
-![NewMoon-Cloudy](Frosted-Glass/NewMoon-Cloudy.jpg)
-</center>
+## ![NewMoon-Cloudy](Frosted-Glass/NewMoon-Cloudy.jpg)
 
-<center>
-<h4>Snow-Lake</h4>
-![Snow-Lake](Frosted-Glass/Snow-Lake.jpg)
-</center>
+## ![Snow-Lake](Frosted-Glass/Snow-Lake.jpg)
 
-<center>
-<h4>Winter-Forest</h4>
-![Winter-Forest](Frosted-Glass/Winter-Forest.jpg)
-</center>
+## ![Winter-Forest](Frosted-Glass/Winter-Forest.jpg)
 
-<center>
-<h4>WinterWinds-TreeTopMountain</h4>
-![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
-</center>
+## ![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
 
 ### Gruvbox Retro
 
-<center>
-<h4>CastleView-RoyalNight</h4>
-![CastleView-RoyalNight](Gruvbox-Retro/CastleView-RoyalNight.jpg)
-</center>
+## ![CastleView-RoyalNight](Gruvbox-Retro/CastleView-RoyalNight.jpg)
 
-<center>
-<h4>ChillBedroom-Cyan</h4>
-![ChillBedroom-Cyan](Gruvbox-Retro/ChillBedroom-Cyan.png)
-</center>
+## ![ChillBedroom-Cyan](Gruvbox-Retro/ChillBedroom-Cyan.png)
 
-<center>
-<h4>Falcon-WingsSpread</h4>
-![Falcon-WingsSpread](Gruvbox-Retro/Falcon-WingsSpread.jpg)
-</center>
+## ![Falcon-WingsSpread](Gruvbox-Retro/Falcon-WingsSpread.jpg)
 
-<center>
-<h4>Forest-Green</h4>
-![Forest-Green](Gruvbox-Retro/Forest-Green.jpg)
-</center>
+## ![Forest-Green](Gruvbox-Retro/Forest-Green.jpg)
 
-<center>
-<h4>GNU-LogoCrown</h4>
-![GNU-LogoCrown](Gruvbox-Retro/GNU-LogoCrown.jpg)
-</center>
+## ![GNU-LogoCrown](Gruvbox-Retro/GNU-LogoCrown.jpg)
 
-<center>
-<h4>Morning-StreetView</h4>
-![Morning-StreetView](Gruvbox-Retro/Morning-StreetView.png)
-</center>
+## ![Morning-StreetView](Gruvbox-Retro/Morning-StreetView.png)
 
-<center>
-<h4>NightLight-Streets</h4>
-![NightLight-Streets](Gruvbox-Retro/NightLight-Streets.jpg)
-</center>
+## ![NightLight-Streets](Gruvbox-Retro/NightLight-Streets.jpg)
 
-<center>
-<h4>Round-ShapePatterns</h4>
-![Round-ShapePatterns](Gruvbox-Retro/Round-ShapePatterns.png)
-</center>
+## ![Round-ShapePatterns](Gruvbox-Retro/Round-ShapePatterns.png)
 
-<center>
-<h4>Self-Limits</h4>
-![Self-Limits](Gruvbox-Retro/Self-Limits.jpg)
-</center>
+## ![Self-Limits](Gruvbox-Retro/Self-Limits.jpg)
 
-<center>
-<h4>Skull-OnFire</h4>
-![Skull-OnFire](Gruvbox-Retro/Skull-OnFire.png)
-</center>
+## ![Skull-OnFire](Gruvbox-Retro/Skull-OnFire.png)
 
-<center>
-<h4>Square-Design</h4>
-![Square-Design](Gruvbox-Retro/Square-Design.png)
-</center>
+## ![Square-Design](Gruvbox-Retro/Square-Design.png)
 
-<center>
-<h4>Town-in-Progress</h4>
-![Town-in-Progress](Gruvbox-Retro/Town-in-Progress.jpg)
-</center>
+## ![Town-in-Progress](Gruvbox-Retro/Town-in-Progress.jpg)
 
-<center>
-<h4>Yellow-Moon</h4>
-![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
-</center>
-<center>
-<h4>Pixel-Hands</h4>
-![Pixel-Hands](Gruvbox-Retro/Pixel-Hands.jpg)
-</center>
+## ![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
+## ![Pixel-Hands](Gruvbox-Retro/Pixel-Hands.jpg)
 
 
 ### Tokyo Night
 
-<center>
-<h4>Buildings-Tokyo</h4>
-![Buildings-Tokyo](Tokyo-Night/Buildings-Tokyo.png)
-</center>
+## ![Buildings-Tokyo](Tokyo-Night/Buildings-Tokyo.png)
 
-<center>
-<h4>GasStation-Midnight</h4>
-![GasStation-Midnight](Tokyo-Night/GasStation-Midnight.gif)
-</center>
+## ![GasStation-Midnight](Tokyo-Night/GasStation-Midnight.gif)
 
-<center>
-<h4>Night-Cafe</h4>
-![Night-Cafe](Tokyo-Night/Night-Cafe.jpg)
-</center>
+## ![Night-Cafe](Tokyo-Night/Night-Cafe.jpg)
 
-<center>
-<h4>Night-Lights</h4>
-![Night-Lights](Tokyo-Night/Night-Lights.png)
-</center>
+## ![Night-Lights](Tokyo-Night/Night-Lights.png)
 
-<center>
-<h4>Street-view</h4>
-![Street-view](Tokyo-Night/Street-view.gif)
-</center>
-<center>
-<h4>RetroStyle-Show</h4>
-![RetroStyle-Show](Tokyo-Night/RetroStyle-Show.png)
-</center>
+## ![Street-view](Tokyo-Night/Street-view.gif)
+## ![RetroStyle-Show](Tokyo-Night/RetroStyle-Show.png)
 
 
 ### Synth Wave
 
-<center>
-<h4>Night-TowerBlue</h4>
-![Night-TowerBlue](Synth-Wave/Night-TowerBlue.png)
-</center>
+## ![Night-TowerBlue](Synth-Wave/Night-TowerBlue.png)
 
-<center>
-<h4>Palm-Trees</h4>
-![Palm-Trees](Synth-Wave/Palm-Trees.jpg)
-</center>
+## ![Palm-Trees](Synth-Wave/Palm-Trees.jpg)
 
-<center>
-<h4>Waves-3dMesh</h4>
-![Waves-3dMesh](Synth-Wave/Waves-3dMesh.jpg)
-</center>
+## ![Waves-3dMesh](Synth-Wave/Waves-3dMesh.jpg)
 
-<center>
-<h4>HongKong-ArtSkyScrapers</h4>
-![HongKong-ArtSkyScrapers](Synth-Wave/HongKong-ArtSkyScrapers.png)
-</center>
-<center>
-<h4>StoreNvim</h4>
-![StoreNvim](Synth-Wave/StoreNvim.png)
-</center>
+## ![HongKong-ArtSkyScrapers](Synth-Wave/HongKong-ArtSkyScrapers.png)
+## ![StoreNvim](Synth-Wave/StoreNvim.png)
 
 
 ### Rose Pine
 
-<center>
-<h4>Dragons-Glooming</h4>
-![Dragons-Glooming](Rose-Pine/Dragons-Glooming.jpg)
-</center>
+## ![Dragons-Glooming](Rose-Pine/Dragons-Glooming.jpg)
 
-<center>
-<h4>Mountain-Side-Sunset</h4>
-![Mountain-Side-Sunset](Rose-Pine/Mountain-Side-Sunset.jpg)
-</center>
+## ![Mountain-Side-Sunset](Rose-Pine/Mountain-Side-Sunset.jpg)
 
-<center>
-<h4>Red-Moon-Forest</h4>
-![Red-Moon-Forest](Rose-Pine/Red-Moon-Forest.jpg)
-</center>
+## ![Red-Moon-Forest](Rose-Pine/Red-Moon-Forest.jpg)
 
-<center>
-<h4>Reflected-Ocean</h4>
-![Reflected-Ocean](Rose-Pine/Reflected-Ocean.jpg)
-</center>
+## ![Reflected-Ocean](Rose-Pine/Reflected-Ocean.jpg)
 
-<center>
-<h4>ScarletTree-BurnedDown</h4>
-![ScarletTree-BurnedDown](Rose-Pine/ScarletTree-BurnedDown.jpeg)
-</center>
+## ![ScarletTree-BurnedDown](Rose-Pine/ScarletTree-BurnedDown.jpeg)
 
-<center>
-<h4>SunSet-AnimatedForest</h4>
-![SunSet-AnimatedForest](Rose-Pine/SunSet-AnimatedForest.png)
-</center>
+## ![SunSet-AnimatedForest](Rose-Pine/SunSet-AnimatedForest.png)
 
-<center>
-<h4>Tower-Sunset-Dark</h4>
-![Tower-Sunset-Dark](Rose-Pine/Tower-Sunset-Dark.jpg)
-</center>
+## ![Tower-Sunset-Dark](Rose-Pine/Tower-Sunset-Dark.jpg)
 
-<center>
-<h4>Warm-Setup</h4>
-![Warm-Setup](Rose-Pine/Warm-Setup.jpeg)
-</center>
+## ![Warm-Setup](Rose-Pine/Warm-Setup.jpeg)
 
-<center>
-<h4>Wheels-Sunset</h4>
-![Wheels-Sunset](Rose-Pine/Wheels-Sunset.jpg)
-</center>
+## ![Wheels-Sunset](Rose-Pine/Wheels-Sunset.jpg)
 
-<center>
-<h4>Japanese-WavesFlow</h4>
-![Japanese-WavesFlow](Rose-Pine/Japanese-WavesFlow.jpg)
-</center>
+## ![Japanese-WavesFlow](Rose-Pine/Japanese-WavesFlow.jpg)
 
-<center>
-<h4>RedMoon-EveningSunset</h4>
-![RedMoon-EveningSunset](Rose-Pine/RedMoon-EveningSunset.png)
-</center>
+## ![RedMoon-EveningSunset](Rose-Pine/RedMoon-EveningSunset.png)
 
-<center>
-<h4>Pixels-Spread</h4>
-![Pixels-Spread](Rose-Pine/Pixels-Spread.png)
-</center>
-<center>
-<h4>Dawn-CityTown</h4>
-![Dawn-CityTown](Rose-Pine/Dawn-CityTown.jpg)
-</center>
+## ![Pixels-Spread](Rose-Pine/Pixels-Spread.png)
+## ![Dawn-CityTown](Rose-Pine/Dawn-CityTown.jpg)
 
 
 ### Nordic Blue
 
-<center>
-<h4>Arch-btw</h4>
-![Arch-btw](Nordic-Blue/Arch-btw.png)
-</center>
+## ![Arch-btw](Nordic-Blue/Arch-btw.png)
 
-<center>
-<h4>BlackWhite-DesaturatedMountain</h4>
-![BlackWhite-DesaturatedMountain](Nordic-Blue/BlackWhite-DesaturatedMountain.jpg)
-</center>
+## ![BlackWhite-DesaturatedMountain](Nordic-Blue/BlackWhite-DesaturatedMountain.jpg)
 
-<center>
-<h4>BlueSky-PlaneRide</h4>
-![BlueSky-PlaneRide](Nordic-Blue/BlueSky-PlaneRide.jpg)
-</center>
+## ![BlueSky-PlaneRide](Nordic-Blue/BlueSky-PlaneRide.jpg)
 
-<center>
-<h4>CityView-Animated</h4>
-![CityView-Animated](Nordic-Blue/CityView-Animated.jpg)
-</center>
+## ![CityView-Animated](Nordic-Blue/CityView-Animated.jpg)
 
-<center>
-<h4>Space-Astranout</h4>
-![Space-Astranout](Nordic-Blue/Space-Astranout.png)
-</center>
+## ![Space-Astranout](Nordic-Blue/Space-Astranout.png)
 
-<center>
-<h4>DearWatching-SunsetForest</h4>
-![DearWatching-SunsetForest](Nordic-Blue/DearWatching-SunsetForest.jpg)
-</center>
+## ![DearWatching-SunsetForest](Nordic-Blue/DearWatching-SunsetForest.jpg)
 
-<center>
-<h4>EveningWinterSmoke-CityView</h4>
-![EveningWinterSmoke-CityView](Nordic-Blue/EveningWinterSmoke-CityView.jpg)
-</center>
+## ![EveningWinterSmoke-CityView](Nordic-Blue/EveningWinterSmoke-CityView.jpg)
 
-<center>
-<h4>Nature-GreenSunset</h4>
-![Nature-GreenSunset](Nordic-Blue/Nature-GreenSunset.jpg)
-</center>
+## ![Nature-GreenSunset](Nordic-Blue/Nature-GreenSunset.jpg)
 
-<center>
-<h4>Night-Vision</h4>
-![Night-Vision](Nordic-Blue/Night-Vision.jpg)
-</center>
+## ![Night-Vision](Nordic-Blue/Night-Vision.jpg)
 
-<center>
-<h4>Rocket-UniverseEscape</h4>
-![Rocket-UniverseEscape](Nordic-Blue/Rocket-UniverseEscape.jpg)
-</center>
+## ![Rocket-UniverseEscape](Nordic-Blue/Rocket-UniverseEscape.jpg)
 
-<center>
-<h4>Sunrise-Forest</h4>
-![Sunrise-Forest](Nordic-Blue/Sunrise-Forest.jpg)
-</center>
+## ![Sunrise-Forest](Nordic-Blue/Sunrise-Forest.jpg)
 
-<center>
-<h4>Sunset-Forest</h4>
-![Sunset-Forest](Nordic-Blue/Sunset-Forest.jpg)
-</center>
+## ![Sunset-Forest](Nordic-Blue/Sunset-Forest.jpg)
 
-<center>
-<h4>Talk-SpreadSheet</h4>
-![Talk-SpreadSheet](Nordic-Blue/Talk-SpreadSheet.jpg)
-</center>
+## ![Talk-SpreadSheet](Nordic-Blue/Talk-SpreadSheet.jpg)
 
-<center>
-<h4>Underwater-Ocean</h4>
-![Underwater-Ocean](Nordic-Blue/Underwater-Ocean.png)
-</center>
+## ![Underwater-Ocean](Nordic-Blue/Underwater-Ocean.png)
 
-<center>
-<h4>DarkForest-Night</h4>
-![DarkForest-Night](Nordic-Blue/DarkForest-Night.png)
-</center>
-<center>
-<h4>BridgeDrive-MiddleRoad</h4>
-![BridgeDrive-MiddleRoad](Nordic-Blue/BridgeDrive-MiddleRoad.jpg)
-</center>
+## ![DarkForest-Night](Nordic-Blue/DarkForest-Night.png)
+## ![BridgeDrive-MiddleRoad](Nordic-Blue/BridgeDrive-MiddleRoad.jpg)
 
-<center>
-<h4>MountainSmoke-Atmosphere</h4>
-![MountainSmoke-Atmosphere](Nordic-Blue/MountainSmoke-Atmosphere.jpg)
-</center>
+## ![MountainSmoke-Atmosphere](Nordic-Blue/MountainSmoke-Atmosphere.jpg)
 
-<center>
-<h4>Mountains-WinterSnow</h4>
-![Mountains-WinterSnow](Nordic-Blue/Mountains-WinterSnow.jpg)
-</center>
+## ![Mountains-WinterSnow](Nordic-Blue/Mountains-WinterSnow.jpg)
 
 
 ### Material Sakura
 
-<center>
-<h4>Flowers-Darker</h4>
-![Flowers-Darker](Material-Sakura/Flowers-Darker.jpg)
-</center>
+## ![Flowers-Darker](Material-Sakura/Flowers-Darker.jpg)
 
-<center>
-<h4>Flowers-Grey</h4>
-![Flowers-Grey](Material-Sakura/Flowers-Grey.jpg)
-</center>
+## ![Flowers-Grey](Material-Sakura/Flowers-Grey.jpg)
 
-<center>
-<h4>Flowers-HigherContrast</h4>
-![Flowers-HigherContrast](Material-Sakura/Flowers-HigherContrast.jpg)
-</center>
+## ![Flowers-HigherContrast](Material-Sakura/Flowers-HigherContrast.jpg)
 
-<center>
-<h4>Flowers-LessColors</h4>
-![Flowers-LessColors](Material-Sakura/Flowers-LessColors.jpg)
-</center>
+## ![Flowers-LessColors](Material-Sakura/Flowers-LessColors.jpg)
 
-<center>
-<h4>Flowers-White</h4>
-![Flowers-White](Material-Sakura/Flowers-White.jpg)
-</center>
+## ![Flowers-White](Material-Sakura/Flowers-White.jpg)
 
-<center>
-<h4>Orange-Flowers</h4>
-![Orange-Flowers](Material-Sakura/Orange-Flowers.jpg)
-</center>
+## ![Orange-Flowers](Material-Sakura/Orange-Flowers.jpg)
 
-<center>
-<h4>Red-Flowers</h4>
-![Red-Flowers](Material-Sakura/Red-Flowers.jpg)
-</center>
+## ![Red-Flowers](Material-Sakura/Red-Flowers.jpg)
 
-<center>
-<h4>Spring-Walk</h4>
-![Spring-Walk](Material-Sakura/Spring-Walk.gif)
-</center>
+## ![Spring-Walk](Material-Sakura/Spring-Walk.gif)
 
 ### Cloning the Repository
 
 ```bash
 git clone https://github.com/Armaghan-Bashir-ch/walls.git
 ```
+
+
+
