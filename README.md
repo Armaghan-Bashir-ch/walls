@@ -9,658 +9,658 @@
 
 ### Catppuccin Latte
 
-<div style="text-align: center;">
-#### Abstract-FantasyWorldArt
+<p align="center">
+<h4>Abstract-FantasyWorldArt</h4>
 ![Abstract-FantasyWorldArt](Catppuccin-Latte/Abstract-FantasyWorldArt.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Animated-SunRISE
+<p align="center">
+<h4>Animated-SunRISE</h4>
 ![Animated-SunRISE](Catppuccin-Latte/Animated-SunRISE.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Cat-Minimal
+<p align="center">
+<h4>Cat-Minimal</h4>
 ![Cat-Minimal](Catppuccin-Latte/Cat-Minimal.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Colorful-Design
+<p align="center">
+<h4>Colorful-Design</h4>
 ![Colorful-Design](Catppuccin-Latte/Colorful-Design.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Forest-DearColorful
+<p align="center">
+<h4>Forest-DearColorful</h4>
 ![Forest-DearColorful](Catppuccin-Latte/Forest-DearColorful.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### RocketLaunch-Ground
+<p align="center">
+<h4>RocketLaunch-Ground</h4>
 ![RocketLaunch-Ground](Catppuccin-Latte/RocketLaunch-Ground.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Shaded-Evening
+<p align="center">
+<h4>Shaded-Evening</h4>
 ![Shaded-Evening](Catppuccin-Latte/Shaded-Evening.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Snake-White
+<p align="center">
+<h4>Snake-White</h4>
 ![Snake-White](Catppuccin-Latte/Snake-White.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### War-Field
+<p align="center">
+<h4>War-Field</h4>
 ![War-Field](Catppuccin-Latte/War-Field.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### ColorFullDesign-Shades
+<p align="center">
+<h4>ColorFullDesign-Shades</h4>
 ![ColorFullDesign-Shades](Catppuccin-Latte/ColorFullDesign-Shades.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### GlitchFantasy-World
+<p align="center">
+<h4>GlitchFantasy-World</h4>
 ![GlitchFantasy-World](Catppuccin-Latte/GlitchFantasy-World.jpg)
-</div>
-<div style="text-align: center;">
-#### BrightMinimal-Shape3D
+</p>
+<p align="center">
+<h4>BrightMinimal-Shape3D</h4>
 ![BrightMinimal-Shape3D](Catppuccin-Latte/BrightMinimal-Shape3D.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### JapaneseStyle-Potrait
+<p align="center">
+<h4>JapaneseStyle-Potrait</h4>
 ![JapaneseStyle-Potrait](Catppuccin-Latte/JapaneseStyle-Potrait.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### JapaneseStyle-PotraitDesaturated
+<p align="center">
+<h4>JapaneseStyle-PotraitDesaturated</h4>
 ![JapaneseStyle-PotraitDesaturated](Catppuccin-Latte/JapaneseStyle-PotraitDesaturated.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### WhiteBackground-AnimeStyle
+<p align="center">
+<h4>WhiteBackground-AnimeStyle</h4>
 ![WhiteBackground-AnimeStyle](Catppuccin-Latte/WhiteBackground-AnimeStyle.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### StreeView-FromRoofTop
+<p align="center">
+<h4>StreeView-FromRoofTop</h4>
 ![StreeView-FromRoofTop](Catppuccin-Latte/StreeView-FromRoofTop.png)
-</div>
+</p>
 
 
 ### Catppuccin Mocha
 
-<div style="text-align: center;">
-#### Abandoned-Boat
+<p align="center">
+<h4>Abandoned-Boat</h4>
 ![Abandoned-Boat](Catppuccin-Mocha/Abandoned-Boat.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Abandoned-Town
+<p align="center">
+<h4>Abandoned-Town</h4>
 ![Abandoned-Town](Catppuccin-Mocha/Abandoned-Town.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Aesthetic-FuturisticTown
+<p align="center">
+<h4>Aesthetic-FuturisticTown</h4>
 ![Aesthetic-FuturisticTown](Catppuccin-Mocha/Aesthetic-FuturisticTown.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Animated-Rock-Mountain
+<p align="center">
+<h4>Animated-Rock-Mountain</h4>
 ![Animated-Rock-Mountain](Catppuccin-Mocha/Animated-Rock-Mountain.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Animated-TreeRed
+<p align="center">
+<h4>Animated-TreeRed</h4>
 ![Animated-TreeRed](Catppuccin-Mocha/Animated-TreeRed.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Black-Hole-Art
+<p align="center">
+<h4>Black-Hole-Art</h4>
 ![Black-Hole-Art](Catppuccin-Mocha/Black-Hole-Art.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### ColorfulRoad-Design
+<p align="center">
+<h4>ColorfulRoad-Design</h4>
 ![ColorfulRoad-Design](Catppuccin-Mocha/ColorfulRoad-Design.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Dark-Env-Gloom
+<p align="center">
+<h4>Dark-Env-Gloom</h4>
 ![Dark-Env-Gloom](Catppuccin-Mocha/Dark-Env-Gloom.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Dark-Gloomy
+<p align="center">
+<h4>Dark-Gloomy</h4>
 ![Dark-Gloomy](Catppuccin-Mocha/Dark-Gloomy.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### DarkWinter-Forest
+<p align="center">
+<h4>DarkWinter-Forest</h4>
 ![DarkWinter-Forest](Catppuccin-Mocha/DarkWinter-Forest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### ForestFall-TownWaterFall
+<p align="center">
+<h4>ForestFall-TownWaterFall</h4>
 ![ForestFall-TownWaterFall](Catppuccin-Mocha/ForestFall-TownWaterFall.jpeg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### ImaginedMinimal-Setup
+<p align="center">
+<h4>ImaginedMinimal-Setup</h4>
 ![ImaginedMinimal-Setup](Catppuccin-Mocha/ImaginedMinimal-Setup.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Purple-Leaves
+<p align="center">
+<h4>Purple-Leaves</h4>
 ![Purple-Leaves](Catppuccin-Mocha/Purple-Leaves.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Solar-Planets
+<p align="center">
+<h4>Solar-Planets</h4>
 ![Solar-Planets](Catppuccin-Mocha/Solar-Planets.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Sunset-Evening
+<p align="center">
+<h4>Sunset-Evening</h4>
 ![Sunset-Evening](Catppuccin-Mocha/Sunset-Evening.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Supernova-Explosion
+<p align="center">
+<h4>Supernova-Explosion</h4>
 ![Supernova-Explosion](Catppuccin-Mocha/Supernova-Explosion.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Up-InSky
+<p align="center">
+<h4>Up-InSky</h4>
 ![Up-InSky](Catppuccin-Mocha/Up-InSky.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### VirusZoomed-In
+<p align="center">
+<h4>VirusZoomed-In</h4>
 ![VirusZoomed-In](Catppuccin-Mocha/VirusZoomed-In.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### MomentsBefore-Dawn
+<p align="center">
+<h4>MomentsBefore-Dawn</h4>
 ![MomentsBefore-Dawn](Catppuccin-Mocha/MomentsBefore-Dawn.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### OmarchyWall
+<p align="center">
+<h4>OmarchyWall</h4>
 ![OmarchyWall](Catppuccin-Mocha/OmarchyWall.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Terminal-KittyCircleVibes
+<p align="center">
+<h4>Terminal-KittyCircleVibes</h4>
 ![Terminal-KittyCircleVibes](Catppuccin-Mocha/Terminal-KittyCircleVibes.png)
-</div>
-<div style="text-align: center;">
-#### Abstract-FiberFabric
+</p>
+<p align="center">
+<h4>Abstract-FiberFabric</h4>
 ![Abstract-FiberFabric](Catppuccin-Mocha/Abstract-FiberFabric.jpg)
-</div>
-<div style="text-align: center;">
-#### RainbowColors-DesignCool
+</p>
+<p align="center">
+<h4>RainbowColors-DesignCool</h4>
 ![RainbowColors-DesignCool](Catppuccin-Mocha/RainbowColors-DesignCool.jpg)
-</div>
+</p>
 
 
 
 ### Decay Green
 
-<div style="text-align: center;">
-#### Block-Design
+<p align="center">
+<h4>Block-Design</h4>
 ![Block-Design](Decay-Green/Block-Design.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Blue-Lines
+<p align="center">
+<h4>Blue-Lines</h4>
 ![Blue-Lines](Decay-Green/Blue-Lines.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Bright-Stars
+<p align="center">
+<h4>Bright-Stars</h4>
 ![Bright-Stars](Decay-Green/Bright-Stars.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### GreenLeaves-TownWalk
+<p align="center">
+<h4>GreenLeaves-TownWalk</h4>
 ![GreenLeaves-TownWalk](Decay-Green/GreenLeaves-TownWalk.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Lego-Setup
+<p align="center">
+<h4>Lego-Setup</h4>
 ![Lego-Setup](Decay-Green/Lego-Setup.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Office-Work
+<p align="center">
+<h4>Office-Work</h4>
 ![Office-Work](Decay-Green/Office-Work.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Old-Vibe-Setup
+<p align="center">
+<h4>Old-Vibe-Setup</h4>
 ![Old-Vibe-Setup](Decay-Green/Old-Vibe-Setup.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### RedNight-Arcade
+<p align="center">
+<h4>RedNight-Arcade</h4>
 ![RedNight-Arcade](Decay-Green/RedNight-Arcade.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Scoob-DesignPattern
+<p align="center">
+<h4>Scoob-DesignPattern</h4>
 ![Scoob-DesignPattern](Decay-Green/Scoob-DesignPattern.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### StationEntry-ArcadeChill
+<p align="center">
+<h4>StationEntry-ArcadeChill</h4>
 ![StationEntry-ArcadeChill](Decay-Green/StationEntry-ArcadeChill.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Disk-OrbitSolar
+<p align="center">
+<h4>Disk-OrbitSolar</h4>
 ![Disk-OrbitSolar](Decay-Green/Disk-OrbitSolar.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### NightSkyScrape-EveningSunset
+<p align="center">
+<h4>NightSkyScrape-EveningSunset</h4>
 ![NightSkyScrape-EveningSunset](Decay-Green/NightSkyScrape-EveningSunset.png)
-</div>
-<div style="text-align: center;">
-#### Earth-Rings
+</p>
+<p align="center">
+<h4>Earth-Rings</h4>
 ![Earth-Rings](Decay-Green/Earth-Rings.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### JapaneseRoad-Walk
+<p align="center">
+<h4>JapaneseRoad-Walk</h4>
 ![JapaneseRoad-Walk](Decay-Green/JapaneseRoad-Walk.jpg)
-</div>
+</p>
 
 
 ### Frosted Glass
 
-<div style="text-align: center;">
-#### Blue-Mountains
+<p align="center">
+<h4>Blue-Mountains</h4>
 ![Blue-Mountains](Frosted-Glass/Blue-Mountains.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Blue-Wave
+<p align="center">
+<h4>Blue-Wave</h4>
 ![Blue-Wave](Frosted-Glass/Blue-Wave.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Cloud-Moon
+<p align="center">
+<h4>Cloud-Moon</h4>
 ![Cloud-Moon](Frosted-Glass/Cloud-Moon.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Dark-SnowForest
+<p align="center">
+<h4>Dark-SnowForest</h4>
 ![Dark-SnowForest](Frosted-Glass/Dark-SnowForest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### MountEverest-Art
+<p align="center">
+<h4>MountEverest-Art</h4>
 ![MountEverest-Art](Frosted-Glass/MountEverest-Art.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Mountain-Sky
+<p align="center">
+<h4>Mountain-Sky</h4>
 ![Mountain-Sky](Frosted-Glass/Mountain-Sky.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### NewMoon-Cloudy
+<p align="center">
+<h4>NewMoon-Cloudy</h4>
 ![NewMoon-Cloudy](Frosted-Glass/NewMoon-Cloudy.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Snow-Lake
+<p align="center">
+<h4>Snow-Lake</h4>
 ![Snow-Lake](Frosted-Glass/Snow-Lake.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Winter-Forest
+<p align="center">
+<h4>Winter-Forest</h4>
 ![Winter-Forest](Frosted-Glass/Winter-Forest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### WinterWinds-TreeTopMountain
+<p align="center">
+<h4>WinterWinds-TreeTopMountain</h4>
 ![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
-</div>
+</p>
 
 ### Gruvbox Retro
 
-<div style="text-align: center;">
-#### CastleView-RoyalNight
+<p align="center">
+<h4>CastleView-RoyalNight</h4>
 ![CastleView-RoyalNight](Gruvbox-Retro/CastleView-RoyalNight.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### ChillBedroom-Cyan
+<p align="center">
+<h4>ChillBedroom-Cyan</h4>
 ![ChillBedroom-Cyan](Gruvbox-Retro/ChillBedroom-Cyan.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Falcon-WingsSpread
+<p align="center">
+<h4>Falcon-WingsSpread</h4>
 ![Falcon-WingsSpread](Gruvbox-Retro/Falcon-WingsSpread.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Forest-Green
+<p align="center">
+<h4>Forest-Green</h4>
 ![Forest-Green](Gruvbox-Retro/Forest-Green.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### GNU-LogoCrown
+<p align="center">
+<h4>GNU-LogoCrown</h4>
 ![GNU-LogoCrown](Gruvbox-Retro/GNU-LogoCrown.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Morning-StreetView
+<p align="center">
+<h4>Morning-StreetView</h4>
 ![Morning-StreetView](Gruvbox-Retro/Morning-StreetView.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### NightLight-Streets
+<p align="center">
+<h4>NightLight-Streets</h4>
 ![NightLight-Streets](Gruvbox-Retro/NightLight-Streets.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Round-ShapePatterns
+<p align="center">
+<h4>Round-ShapePatterns</h4>
 ![Round-ShapePatterns](Gruvbox-Retro/Round-ShapePatterns.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Self-Limits
+<p align="center">
+<h4>Self-Limits</h4>
 ![Self-Limits](Gruvbox-Retro/Self-Limits.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Skull-OnFire
+<p align="center">
+<h4>Skull-OnFire</h4>
 ![Skull-OnFire](Gruvbox-Retro/Skull-OnFire.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Square-Design
+<p align="center">
+<h4>Square-Design</h4>
 ![Square-Design](Gruvbox-Retro/Square-Design.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Town-in-Progress
+<p align="center">
+<h4>Town-in-Progress</h4>
 ![Town-in-Progress](Gruvbox-Retro/Town-in-Progress.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Yellow-Moon
+<p align="center">
+<h4>Yellow-Moon</h4>
 ![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
-</div>
-<div style="text-align: center;">
-#### Pixel-Hands
+</p>
+<p align="center">
+<h4>Pixel-Hands</h4>
 ![Pixel-Hands](Gruvbox-Retro/Pixel-Hands.jpg)
-</div>
+</p>
 
 
 ### Tokyo Night
 
-<div style="text-align: center;">
-#### Buildings-Tokyo
+<p align="center">
+<h4>Buildings-Tokyo</h4>
 ![Buildings-Tokyo](Tokyo-Night/Buildings-Tokyo.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### GasStation-Midnight
+<p align="center">
+<h4>GasStation-Midnight</h4>
 ![GasStation-Midnight](Tokyo-Night/GasStation-Midnight.gif)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Night-Cafe
+<p align="center">
+<h4>Night-Cafe</h4>
 ![Night-Cafe](Tokyo-Night/Night-Cafe.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Night-Lights
+<p align="center">
+<h4>Night-Lights</h4>
 ![Night-Lights](Tokyo-Night/Night-Lights.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Street-view
+<p align="center">
+<h4>Street-view</h4>
 ![Street-view](Tokyo-Night/Street-view.gif)
-</div>
-<div style="text-align: center;">
-#### RetroStyle-Show
+</p>
+<p align="center">
+<h4>RetroStyle-Show</h4>
 ![RetroStyle-Show](Tokyo-Night/RetroStyle-Show.png)
-</div>
+</p>
 
 
 ### Synth Wave
 
-<div style="text-align: center;">
-#### Night-TowerBlue
+<p align="center">
+<h4>Night-TowerBlue</h4>
 ![Night-TowerBlue](Synth-Wave/Night-TowerBlue.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Palm-Trees
+<p align="center">
+<h4>Palm-Trees</h4>
 ![Palm-Trees](Synth-Wave/Palm-Trees.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Waves-3dMesh
+<p align="center">
+<h4>Waves-3dMesh</h4>
 ![Waves-3dMesh](Synth-Wave/Waves-3dMesh.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### HongKong-ArtSkyScrapers
+<p align="center">
+<h4>HongKong-ArtSkyScrapers</h4>
 ![HongKong-ArtSkyScrapers](Synth-Wave/HongKong-ArtSkyScrapers.png)
-</div>
-<div style="text-align: center;">
-#### StoreNvim
+</p>
+<p align="center">
+<h4>StoreNvim</h4>
 ![StoreNvim](Synth-Wave/StoreNvim.png)
-</div>
+</p>
 
 
 ### Rose Pine
 
-<div style="text-align: center;">
-#### Dragons-Glooming
+<p align="center">
+<h4>Dragons-Glooming</h4>
 ![Dragons-Glooming](Rose-Pine/Dragons-Glooming.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Mountain-Side-Sunset
+<p align="center">
+<h4>Mountain-Side-Sunset</h4>
 ![Mountain-Side-Sunset](Rose-Pine/Mountain-Side-Sunset.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Red-Moon-Forest
+<p align="center">
+<h4>Red-Moon-Forest</h4>
 ![Red-Moon-Forest](Rose-Pine/Red-Moon-Forest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Reflected-Ocean
+<p align="center">
+<h4>Reflected-Ocean</h4>
 ![Reflected-Ocean](Rose-Pine/Reflected-Ocean.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### ScarletTree-BurnedDown
+<p align="center">
+<h4>ScarletTree-BurnedDown</h4>
 ![ScarletTree-BurnedDown](Rose-Pine/ScarletTree-BurnedDown.jpeg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### SunSet-AnimatedForest
+<p align="center">
+<h4>SunSet-AnimatedForest</h4>
 ![SunSet-AnimatedForest](Rose-Pine/SunSet-AnimatedForest.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Tower-Sunset-Dark
+<p align="center">
+<h4>Tower-Sunset-Dark</h4>
 ![Tower-Sunset-Dark](Rose-Pine/Tower-Sunset-Dark.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Warm-Setup
+<p align="center">
+<h4>Warm-Setup</h4>
 ![Warm-Setup](Rose-Pine/Warm-Setup.jpeg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Wheels-Sunset
+<p align="center">
+<h4>Wheels-Sunset</h4>
 ![Wheels-Sunset](Rose-Pine/Wheels-Sunset.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Japanese-WavesFlow
+<p align="center">
+<h4>Japanese-WavesFlow</h4>
 ![Japanese-WavesFlow](Rose-Pine/Japanese-WavesFlow.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### RedMoon-EveningSunset
+<p align="center">
+<h4>RedMoon-EveningSunset</h4>
 ![RedMoon-EveningSunset](Rose-Pine/RedMoon-EveningSunset.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Pixels-Spread
+<p align="center">
+<h4>Pixels-Spread</h4>
 ![Pixels-Spread](Rose-Pine/Pixels-Spread.png)
-</div>
-<div style="text-align: center;">
-#### Dawn-CityTown
+</p>
+<p align="center">
+<h4>Dawn-CityTown</h4>
 ![Dawn-CityTown](Rose-Pine/Dawn-CityTown.jpg)
-</div>
+</p>
 
 
 ### Nordic Blue
 
-<div style="text-align: center;">
-#### Arch-btw
+<p align="center">
+<h4>Arch-btw</h4>
 ![Arch-btw](Nordic-Blue/Arch-btw.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### BlackWhite-DesaturatedMountain
+<p align="center">
+<h4>BlackWhite-DesaturatedMountain</h4>
 ![BlackWhite-DesaturatedMountain](Nordic-Blue/BlackWhite-DesaturatedMountain.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### BlueSky-PlaneRide
+<p align="center">
+<h4>BlueSky-PlaneRide</h4>
 ![BlueSky-PlaneRide](Nordic-Blue/BlueSky-PlaneRide.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### CityView-Animated
+<p align="center">
+<h4>CityView-Animated</h4>
 ![CityView-Animated](Nordic-Blue/CityView-Animated.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Space-Astranout
+<p align="center">
+<h4>Space-Astranout</h4>
 ![Space-Astranout](Nordic-Blue/Space-Astranout.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### DearWatching-SunsetForest
+<p align="center">
+<h4>DearWatching-SunsetForest</h4>
 ![DearWatching-SunsetForest](Nordic-Blue/DearWatching-SunsetForest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### EveningWinterSmoke-CityView
+<p align="center">
+<h4>EveningWinterSmoke-CityView</h4>
 ![EveningWinterSmoke-CityView](Nordic-Blue/EveningWinterSmoke-CityView.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Nature-GreenSunset
+<p align="center">
+<h4>Nature-GreenSunset</h4>
 ![Nature-GreenSunset](Nordic-Blue/Nature-GreenSunset.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Night-Vision
+<p align="center">
+<h4>Night-Vision</h4>
 ![Night-Vision](Nordic-Blue/Night-Vision.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Rocket-UniverseEscape
+<p align="center">
+<h4>Rocket-UniverseEscape</h4>
 ![Rocket-UniverseEscape](Nordic-Blue/Rocket-UniverseEscape.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Sunrise-Forest
+<p align="center">
+<h4>Sunrise-Forest</h4>
 ![Sunrise-Forest](Nordic-Blue/Sunrise-Forest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Sunset-Forest
+<p align="center">
+<h4>Sunset-Forest</h4>
 ![Sunset-Forest](Nordic-Blue/Sunset-Forest.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Talk-SpreadSheet
+<p align="center">
+<h4>Talk-SpreadSheet</h4>
 ![Talk-SpreadSheet](Nordic-Blue/Talk-SpreadSheet.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Underwater-Ocean
+<p align="center">
+<h4>Underwater-Ocean</h4>
 ![Underwater-Ocean](Nordic-Blue/Underwater-Ocean.png)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### DarkForest-Night
+<p align="center">
+<h4>DarkForest-Night</h4>
 ![DarkForest-Night](Nordic-Blue/DarkForest-Night.png)
-</div>
-<div style="text-align: center;">
-#### BridgeDrive-MiddleRoad
+</p>
+<p align="center">
+<h4>BridgeDrive-MiddleRoad</h4>
 ![BridgeDrive-MiddleRoad](Nordic-Blue/BridgeDrive-MiddleRoad.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### MountainSmoke-Atmosphere
+<p align="center">
+<h4>MountainSmoke-Atmosphere</h4>
 ![MountainSmoke-Atmosphere](Nordic-Blue/MountainSmoke-Atmosphere.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Mountains-WinterSnow
+<p align="center">
+<h4>Mountains-WinterSnow</h4>
 ![Mountains-WinterSnow](Nordic-Blue/Mountains-WinterSnow.jpg)
-</div>
+</p>
 
 
 ### Material Sakura
 
-<div style="text-align: center;">
-#### Flowers-Darker
+<p align="center">
+<h4>Flowers-Darker</h4>
 ![Flowers-Darker](Material-Sakura/Flowers-Darker.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Flowers-Grey
+<p align="center">
+<h4>Flowers-Grey</h4>
 ![Flowers-Grey](Material-Sakura/Flowers-Grey.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Flowers-HigherContrast
+<p align="center">
+<h4>Flowers-HigherContrast</h4>
 ![Flowers-HigherContrast](Material-Sakura/Flowers-HigherContrast.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Flowers-LessColors
+<p align="center">
+<h4>Flowers-LessColors</h4>
 ![Flowers-LessColors](Material-Sakura/Flowers-LessColors.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Flowers-White
+<p align="center">
+<h4>Flowers-White</h4>
 ![Flowers-White](Material-Sakura/Flowers-White.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Orange-Flowers
+<p align="center">
+<h4>Orange-Flowers</h4>
 ![Orange-Flowers](Material-Sakura/Orange-Flowers.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Red-Flowers
+<p align="center">
+<h4>Red-Flowers</h4>
 ![Red-Flowers](Material-Sakura/Red-Flowers.jpg)
-</div>
+</p>
 
-<div style="text-align: center;">
-#### Spring-Walk
+<p align="center">
+<h4>Spring-Walk</h4>
 ![Spring-Walk](Material-Sakura/Spring-Walk.gif)
-</div>
+</p>
 
 ### Cloning the Repository
 
