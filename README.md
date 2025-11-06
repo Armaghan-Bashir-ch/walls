@@ -1,6 +1,8 @@
-# Source
+# Sources
 
-These wallpapers are sourced from the [Hyde project](https://github.com/hyde-project).
+- [Hyde Project](https://github.com/HyDE-Project/)
+- [Dharmx Wallpapers](https://github.com/dharmx/walls)
+- [SDDM astronaut theme wallpapers](https://github.com/Keyitdev/sddm-astronaut-theme/)
 
 ## Wallpaper Collection Preview
 
@@ -29,6 +31,16 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![ColorFullDesign-Shades](Catppuccin-Latte/ColorFullDesign-Shades.png)
 
 ## ![GlitchFantasy-World](Catppuccin-Latte/GlitchFantasy-World.jpg)
+## ![BrightMinimal-Shape3D](Catppuccin-Latte/BrightMinimal-Shape3D.jpg)
+
+## ![JapaneseStyle-Potrait](Catppuccin-Latte/JapaneseStyle-Potrait.png)
+
+## ![JapaneseStyle-PotraitDesaturated](Catppuccin-Latte/JapaneseStyle-PotraitDesaturated.png)
+
+## ![WhiteBackground-AnimeStyle](Catppuccin-Latte/WhiteBackground-AnimeStyle.png)
+
+## ![StreeView-FromRoofTop](Catppuccin-Latte/StreeView-FromRoofTop.png)
+
 
 ## Catppuccin Mocha
 
@@ -72,9 +84,11 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 
 ## ![OmarchyWall](Catppuccin-Mocha/OmarchyWall.png)
 
-## ![StreeView-FromRoofTop](Catppuccin-Mocha/StreeView-FromRoofTop.png)
-
 ## ![Terminal-KittyCircleVibes](Catppuccin-Mocha/Terminal-KittyCircleVibes.png)
+## ![Abstract-FiberFabric](Catppuccin-Mocha/Abstract-FiberFabric.jpg)
+## ![RainbowColors-DesignCool](Catppuccin-Mocha/RainbowColors-DesignCool.jpg)
+
+
 
 ## Decay Green
 
@@ -101,6 +115,10 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![Disk-OrbitSolar](Decay-Green/Disk-OrbitSolar.png)
 
 ## ![NightSkyScrape-EveningSunset](Decay-Green/NightSkyScrape-EveningSunset.png)
+## ![Earth-Rings](Decay-Green/Earth-Rings.jpg)
+
+## ![JapaneseRoad-Walk](Decay-Green/JapaneseRoad-Walk.jpg)
+
 
 ## Frosted Glass
 
@@ -151,8 +169,8 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![Town-in-Progress](Gruvbox-Retro/Town-in-Progress.jpg)
 
 ## ![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
+## ![Pixel-Hands](Gruvbox-Retro/Pixel-Hands.jpg)
 
-## ![PrettyGreen-Town](Gruvbox-Retro/PrettyGreen-Town.jpg)
 
 ## Tokyo Night
 
@@ -165,20 +183,20 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![Night-Lights](Tokyo-Night/Night-Lights.png)
 
 ## ![Street-view](Tokyo-Night/Street-view.gif)
+## ![RetroStyle-Show](Tokyo-Night/RetroStyle-Show.png)
+
 
 ## Synth Wave
-
-## ![City-FilledWithSkyscrapers](Synth-Wave/City-FilledWithSkyscrapers.jpg)
 
 ## ![Night-TowerBlue](Synth-Wave/Night-TowerBlue.png)
 
 ## ![Palm-Trees](Synth-Wave/Palm-Trees.jpg)
 
-## ![Starry-Sunset](Synth-Wave/Starry-Sunset.png)
-
 ## ![Waves-3dMesh](Synth-Wave/Waves-3dMesh.jpg)
 
 ## ![HongKong-ArtSkyScrapers](Synth-Wave/HongKong-ArtSkyScrapers.png)
+## ![StoreNvim](Synth-Wave/StoreNvim.png)
+
 
 ## Rose Pine
 
@@ -205,6 +223,8 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![RedMoon-EveningSunset](Rose-Pine/RedMoon-EveningSunset.png)
 
 ## ![Pixels-Spread](Rose-Pine/Pixels-Spread.png)
+## ![Dawn-CityTown](Rose-Pine/Dawn-CityTown.jpg)
+
 
 ## Nordic Blue
 
@@ -228,8 +248,6 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 
 ## ![Rocket-UniverseEscape](Nordic-Blue/Rocket-UniverseEscape.jpg)
 
-## ![Space-stronaut](Nordic-Blue/Space-stronaut.png)
-
 ## ![Sunrise-Forest](Nordic-Blue/Sunrise-Forest.jpg)
 
 ## ![Sunset-Forest](Nordic-Blue/Sunset-Forest.jpg)
@@ -239,8 +257,12 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 ## ![Underwater-Ocean](Nordic-Blue/Underwater-Ocean.png)
 
 ## ![DarkForest-Night](Nordic-Blue/DarkForest-Night.png)
+## ![BridgeDrive-MiddleRoad](Nordic-Blue/BridgeDrive-MiddleRoad.jpg)
 
-## ![Earth-Rings](Nordic-Blue/Earth-Rings.jpg)
+## ![MountainSmoke-Atmosphere](Nordic-Blue/MountainSmoke-Atmosphere.jpg)
+
+## ![Mountains-WinterSnow](Nordic-Blue/Mountains-WinterSnow.jpg)
+
 
 ## Material Sakura
 
@@ -260,10 +282,11 @@ These wallpapers are sourced from the [Hyde project](https://github.com/hyde-pro
 
 ## ![Spring-Walk](Material-Sakura/Spring-Walk.gif)
 
-## ![RainbowColors-DesignCool](Material-Sakura/RainbowColors-DesignCool.jpg)
-
 ### Cloning the Repository
 
 ```bash
 git clone https://github.com/Armaghan-Bashir-ch/walls.git
 ```
+
+
+
