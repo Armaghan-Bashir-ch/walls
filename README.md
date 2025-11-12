@@ -41,6 +41,11 @@
 
 ## ![StreeView-FromRoofTop](Catppuccin-Latte/StreeView-FromRoofTop.png)
 
+## ![FarFromIsland-BoatBrightLake](Catppuccin-Latte/FarFromIsland-BoatBrightLake.jpg)
+
+## ![LonelyPath-Walk](Catppuccin-Latte/LonelyPath-Walk.jpg)
+
+
 
 ### Catppuccin Mocha
 
@@ -88,6 +93,11 @@
 ## ![Abstract-FiberFabric](Catppuccin-Mocha/Abstract-FiberFabric.jpg)
 ## ![RainbowColors-DesignCool](Catppuccin-Mocha/RainbowColors-DesignCool.jpg)
 
+## ![NarrowRoad-NightWalkCycle](Catppuccin-Mocha/NarrowRoad-NightWalkCycle.png)
+
+## ![RainbowColor-Waves](Catppuccin-Mocha/RainbowColor-Waves.png)
+
+
 
 
 ### Decay Green
@@ -119,6 +129,9 @@
 
 ## ![JapaneseRoad-Walk](Decay-Green/JapaneseRoad-Walk.jpg)
 
+## ![PrettyGreen-Town](Decay-Green/PrettyGreen-Town.jpg)
+
+
 
 ### Frosted Glass
 
@@ -141,6 +154,12 @@
 ## ![Winter-Forest](Frosted-Glass/Winter-Forest.jpg)
 
 ## ![WinterWinds-TreeTopMountain](Frosted-Glass/WinterWinds-TreeTopMountain.png)
+
+## ![OnTopMountain-TreePrayers](Frosted-Glass/OnTopMountain-TreePrayers.jpg)
+
+## ![SnowWalk-Drown](Frosted-Glass/SnowWalk-Drown.jpg)
+
+## ![Starry-Night](Frosted-Glass/Starry-Night.jpg)
 
 ### Gruvbox Retro
 
@@ -170,6 +189,9 @@
 
 ## ![Yellow-Moon](Gruvbox-Retro/Yellow-Moon.png)
 ## ![Pixel-Hands](Gruvbox-Retro/Pixel-Hands.jpg)
+
+## ![HallucinationSky-TownCity](Gruvbox-Retro/HallucinationSky-TownCity.png)
+
 
 
 ### Tokyo Night
@@ -263,6 +285,9 @@
 
 ## ![Mountains-WinterSnow](Nordic-Blue/Mountains-WinterSnow.jpg)
 
+## ![SilverSurfer-InSpaceAlone](Nordic-Blue/SilverSurfer-InSpaceAlone.png)
+
+
 
 ### Material Sakura
 
@@ -281,6 +306,8 @@
 ## ![Red-Flowers](Material-Sakura/Red-Flowers.jpg)
 
 ## ![Spring-Walk](Material-Sakura/Spring-Walk.gif)
+
+## ![FlowerDesign-Hallucinations](Material-Sakura/FlowerDesign-Hallucinations.jpg)
 
 ### Cloning the Repository
 
