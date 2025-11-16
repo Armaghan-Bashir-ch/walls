@@ -97,6 +97,10 @@
 
 ## ![RainbowColor-Waves](Catppuccin-Mocha/RainbowColor-Waves.png)
 
+## ![Fabric-Static](Catppuccin-Mocha/Fabric-Static.jpg)
+
+## ![Liquid-MotionWaves](Catppuccin-Mocha/Liquid-MotionWaves.jpg)
+
 
 
 
