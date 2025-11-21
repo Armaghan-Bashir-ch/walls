@@ -3,6 +3,13 @@
 - [Hyde Project](https://github.com/HyDE-Project/)
 - [Dharmx Wallpapers](https://github.com/dharmx/walls)
 - [SDDM astronaut theme wallpapers](https://github.com/Keyitdev/sddm-astronaut-theme/)
+- [Omarchy Extra Themes](https://learn.omacom.io/2/the-omarchy-manual/90/extra-themes)
+- [Omarchy Themes](https://omarchythemes.com/)
+- [ThePrimeagen's walls repo](https://github.com/Theprimeagen/anime)
+- [Kurzgesagt walls (from Reddit)](https://www.reddit.com/r/kurzgesagt/)
+
+>[!Note]
+> All wallpapers in this collection are sourced from publicly available repositories that I have personally discovered and curated.
 
 ## Wallpaper Collection Preview
 
