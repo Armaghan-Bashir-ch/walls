@@ -251,6 +251,8 @@
 ## ![Pixels-Spread](Rose-Pine/Pixels-Spread.png)
 ## ![Dawn-CityTown](Rose-Pine/Dawn-CityTown.jpg)
 
+## ![SparkyCloudy-StarryNight](Rose-Pine/SparkyCloudy-StarryNight.jpg)
+
 
 ### Nordic Blue
 
